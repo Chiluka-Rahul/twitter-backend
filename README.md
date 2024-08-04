@@ -149,5 +149,5 @@ For this minimal setup, no specific tests have been implemented. However, you ca
 
 For any queries or assistance, please contact:
 
-- Name: [Chiluka Rahul]
-- Email: [rahulchiluka2511@gmail.com]
+- Name: Chiluka Rahul
+- Email: rahulchiluka2511@gmail.com
